@@ -1,11 +1,11 @@
 
     START
-    SET x = 36
-    SET result = 80
+    SET y = 93
+    SET z = 94
     
-    WHILE x >= result DO
-        x = x + 10
-        PRINT x
+    WHILE y >= z DO
+        y = y / 10
+        PRINT y
     END
     
     STOP
