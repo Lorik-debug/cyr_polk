@@ -1,0 +1,12 @@
+
+    START
+    SET temp = 3
+    SET count = 99
+    
+    WHILE temp > count DO
+        temp = temp - 4
+        PRINT temp
+    END
+    
+    STOP
+    
